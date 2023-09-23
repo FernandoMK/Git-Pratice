@@ -9,3 +9,7 @@ Repositório de práticas de GIT, tais como:
 * Branch
 * Merge
 * Rebase
+
+## Exemplo
+
+Esse texto foi adicionado como exemplo de um pull-request.
